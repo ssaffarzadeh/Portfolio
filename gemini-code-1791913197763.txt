@@ -1,0 +1,18 @@
+soroush-portfolio/
+├── _quarto.yml                 # Main site configuration
+├── index.qmd                   # Homepage / About Me
+├── cv.qmd                      # Digital CV page
+├── portfolio.qmd               # Portfolio listing page
+├── assets/
+│   ├── CV_S_Saffarzadeh.pdf     # Downloadable CV
+│   ├── Portfolio_Landscape.pdf # Downloadable Portfolio
+│   └── headshot.jpg            # Profile photo
+├── projects/
+│   ├── urban-digital-memory.qmd
+│   ├── unpacking-dresden.qmd
+│   ├── spine-of-leyweg.qmd
+│   ├── pardis-planning.qmd
+│   └── 30daymapchallenge.qmd
+└── .github/
+    └── workflows/
+        └── publish.yml         # GitHub Actions deployment workflow

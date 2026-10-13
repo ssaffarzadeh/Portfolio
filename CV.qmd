@@ -1,0 +1,41 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+
+[Download Full CV (PDF)](assets/CV_S_Saffarzadeh.pdf){.btn .btn-primary role="button"}
+
+## Education
+
+- **MSc in Urbanism** | Delft University of Technology (TU Delft), Netherlands  
+  *Sept 2024 – Jun 2026* | GPA: 7.85/10[cite: 1]  
+  *Thesis:* Urban Digital Memory: Evaluating Spatial Interventions on Public Space (Teatre Shahr sqr., Tehran)[cite: 1]
+
+- **Master of Urban Design (1st Year)** | University of Tehran, Iran  
+  *Aug 2023 – Jun 2024*[cite: 1]
+
+- **BSc in Urban Planning (Cum Laude)** | Tehran University of Art, Iran  
+  *Aug 2019 – Jul 2023* | GPA: 4.0/4.0 (18.99/20)[cite: 1]
+
+---
+
+## Experience & Key Roles
+
+- **Rbanism Student Assistant** | TU Delft *(Sept 2025 – Jul 2026)*  
+  Coordinated the monthly Rbanism newsletter on R in geospatial analysis, content creation, and team brainstorming[cite: 1].
+- **Co-Editor-in-Chief** | *ATLANTIS Magazine* *(Jul 2025 – Jul 2026)*  
+  Published Issue #36.1 (*Agency, Space, Society*) and #36.2 (*Future Imaginaries*)[cite: 1].
+- **Survey Team Conductor & Urban Planning Expert** | Gozineh Consulting Co. *(Dec 2022 – Nov 2023)*  
+  Led field data gathering, mapping, spatial analysis, and 3D modeling[cite: 1].
+
+---
+
+## Technical & Software Skills
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Spatial Analysis & Programming** | R, Quarto Markdown, Python, QGIS, ArcGIS, S-MCDA, K-Means Clustering[cite: 1, 2, 10] |
+| **3D & Spatial Design** | Rhino, CityEngine, Twinmotion, SketchUp, AutoCAD[cite: 2, 16] |
+| **Graphics & Publishing** | Adobe InDesign, Photoshop, Illustrator, Audition[cite: 2] |
+| **Spatial Methods** | Social Media Scraping (Apify), Network Analysis, Isovist & Depthmap[cite: 6, 18] |

@@ -1,0 +1,10 @@
+---
+# format: html
+title: "Portfolio"
+subtitle: "Selected Works in Urban Analytics, Design, and Environmental Research"
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+---
