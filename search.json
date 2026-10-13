@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "projects/urban-digital-memory.html",
+    "href": "projects/urban-digital-memory.html",
+    "title": "urban-digital-memory",
+    "section": "",
+    "text": "This research explores how citizens’ lived experiences shared on social media (X/Twitter) serve as digital memories that express emotional and spatial values regarding public spaces[cite: 6].\nFocusing on City Theater Square in Tehran, the project applies data scraping (via Apify), topic modeling, and sentiment analysis to extract spatial perceptions and link them directly to urban design interventions[cite: 6, 8].\n[cite: 7]\n\n\n\nData Scraping & Analysis: Processed tweets from 2022–2026 across spatial topics[cite: 6, 7].\nSentiment-Spatial Association: Mapped positive, negative, and neutral emotions to cognitive elements (paths, nodes, landmarks)[cite: 6, 7].\nDesign Framework: Created a decision pipeline converting negative-valued spatial associations into targeted urban design responses[cite: 7, 8]."
+  },
+  {
+    "objectID": "projects/urban-digital-memory.html#overview",
+    "href": "projects/urban-digital-memory.html#overview",
+    "title": "urban-digital-memory",
+    "section": "",
+    "text": "This research explores how citizens’ lived experiences shared on social media (X/Twitter) serve as digital memories that express emotional and spatial values regarding public spaces[cite: 6].\nFocusing on City Theater Square in Tehran, the project applies data scraping (via Apify), topic modeling, and sentiment analysis to extract spatial perceptions and link them directly to urban design interventions[cite: 6, 8].\n[cite: 7]\n\n\n\nData Scraping & Analysis: Processed tweets from 2022–2026 across spatial topics[cite: 6, 7].\nSentiment-Spatial Association: Mapped positive, negative, and neutral emotions to cognitive elements (paths, nodes, landmarks)[cite: 6, 7].\nDesign Framework: Created a decision pipeline converting negative-valued spatial associations into targeted urban design responses[cite: 7, 8]."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "urban-digital-memory\n\n\n\nMSc Thesis\n\nR\n\nSentiment Analysis\n\nUrban Design\n\n\n\nLeveraging social media data on public spaces to inform urban design processes.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Soroush Saffarzadeh",
+    "section": "",
+    "text": "I am an Urbanism Graduate (MSc, TU Delft) specializing at the intersection of Urban Analytics, Spatial Data Science, and Socio-Ecological Urban Design[cite: 1, 3, 4, 10]. My research and practice leverage geospatial analysis, sentiment modeling, and spatial decision-support tools to inform public space design and urban restoration strategies[cite: 1, 6, 9, 10].\n\n\n\nDigital Urban Memory & Public Space: Scraping social media data (Twitter/X) to evaluate spatial sentiment and public space interventions[cite: 6].\nSpatial Multi-Criteria Decision Analysis (S-MCDA): Quantitative evaluation of urban stream restoration and climate adaptation strategies[cite: 1, 10].\nUrban Modeling & Visualization: Integrating R, QGIS, Rhino, CityEngine, and Twinmotion for 3D spatial simulation[cite: 2, 16].\n\n\n\n\n\n\n\n\nLeveraging social media scraping, sentiment analysis, and topic modeling to inform urban design processes for Tehran’s City Theater Square[cite: 1, 6].\n\n\n\nAn open-source S-MCDA and K-means clustering analysis project evaluating urban stream restoration principles in Dresden, Germany[cite: 1, 10]."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Soroush Saffarzadeh",
+    "section": "",
+    "text": "I am an Urbanism Graduate (MSc, TU Delft) specializing at the intersection of Urban Analytics, Spatial Data Science, and Socio-Ecological Urban Design[cite: 1, 3, 4, 10]. My research and practice leverage geospatial analysis, sentiment modeling, and spatial decision-support tools to inform public space design and urban restoration strategies[cite: 1, 6, 9, 10].\n\n\n\nDigital Urban Memory & Public Space: Scraping social media data (Twitter/X) to evaluate spatial sentiment and public space interventions[cite: 6].\nSpatial Multi-Criteria Decision Analysis (S-MCDA): Quantitative evaluation of urban stream restoration and climate adaptation strategies[cite: 1, 10].\nUrban Modeling & Visualization: Integrating R, QGIS, Rhino, CityEngine, and Twinmotion for 3D spatial simulation[cite: 2, 16].\n\n\n\n\n\n\n\n\nLeveraging social media scraping, sentiment analysis, and topic modeling to inform urban design processes for Tehran’s City Theater Square[cite: 1, 6].\n\n\n\nAn open-source S-MCDA and K-means clustering analysis project evaluating urban stream restoration principles in Dresden, Germany[cite: 1, 10]."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nMSc in Urbanism | Delft University of Technology (TU Delft), Netherlands\nSept 2024 – Jun 2026 | GPA: 7.85/10[cite: 1]\nThesis: Urban Digital Memory: Evaluating Spatial Interventions on Public Space (Teatre Shahr sqr., Tehran)[cite: 1]\nMaster of Urban Design (1st Year) | University of Tehran, Iran\nAug 2023 – Jun 2024[cite: 1]\nBSc in Urban Planning (Cum Laude) | Tehran University of Art, Iran\nAug 2019 – Jul 2023 | GPA: 4.0/4.0 (18.99/20)[cite: 1]"
+  },
+  {
+    "objectID": "CV.html#experience-key-roles",
+    "href": "CV.html#experience-key-roles",
+    "title": "Curriculum Vitae",
+    "section": "Experience & Key Roles",
+    "text": "Experience & Key Roles\n\nRbanism Student Assistant | TU Delft (Sept 2025 – Jul 2026)\nCoordinated the monthly Rbanism newsletter on R in geospatial analysis, content creation, and team brainstorming[cite: 1].\nCo-Editor-in-Chief | ATLANTIS Magazine (Jul 2025 – Jul 2026)\nPublished Issue #36.1 (Agency, Space, Society) and #36.2 (Future Imaginaries)[cite: 1].\nSurvey Team Conductor & Urban Planning Expert | Gozineh Consulting Co. (Dec 2022 – Nov 2023)\nLed field data gathering, mapping, spatial analysis, and 3D modeling[cite: 1]."
+  },
+  {
+    "objectID": "CV.html#technical-software-skills",
+    "href": "CV.html#technical-software-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical & Software Skills",
+    "text": "Technical & Software Skills\n\n\n\n\n\n\n\nCategory\nSkills & Tools\n\n\n\n\nSpatial Analysis & Programming\nR, Quarto Markdown, Python, QGIS, ArcGIS, S-MCDA, K-Means Clustering[cite: 1, 2, 10]\n\n\n3D & Spatial Design\nRhino, CityEngine, Twinmotion, SketchUp, AutoCAD[cite: 2, 16]\n\n\nGraphics & Publishing\nAdobe InDesign, Photoshop, Illustrator, Audition[cite: 2]\n\n\nSpatial Methods\nSocial Media Scraping (Apify), Network Analysis, Isovist & Depthmap[cite: 6, 18]"
+  }
+]
