@@ -15,7 +15,7 @@ about:
       href: https://github.com/ssaffarzadeh
     - icon: file-earmark-pdf
       text: Portfolio PDF
-      href: assets/Portfolio_Landscape.pdf
+      href: assets/S. Saffarzadeh_Portfolio.pdf
     - icon: envelope
       text: Email
       href: mailto:soroush.sffrzdh@gmail.com
